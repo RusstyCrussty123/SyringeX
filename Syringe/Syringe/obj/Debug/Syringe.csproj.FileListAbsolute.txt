@@ -1,0 +1,11 @@
+D:\Apps\Src\Syringe\Syringe\bin\Debug\Syringe.exe.config
+D:\Apps\Src\Syringe\Syringe\bin\Debug\Syringe.exe
+D:\Apps\Src\Syringe\Syringe\bin\Debug\Syringe.pdb
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.csproj.SuggestedBindingRedirects.cache
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.Form1.resources
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.Properties.Resources.resources
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.csproj.GenerateResource.cache
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.csproj.CoreCompileInputs.cache
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.exe
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.pdb
+D:\Apps\Src\Syringe\Syringe\obj\Debug\Syringe.csproj.AssemblyReference.cache
