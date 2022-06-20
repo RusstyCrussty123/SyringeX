@@ -1,5 +1,5 @@
 # SyringeX
-Simple and fast DLL injector for windows.
+Simple, open-source, and fast DLL injector for windows.
 
 ## How to download
 Go to [releases](https://github.com/RusstyCrussty123/SyringeX/releases) and download the binary file attached.
